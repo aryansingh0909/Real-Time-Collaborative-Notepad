@@ -57,6 +57,7 @@ This project is a real-time collaborative code editor designed to enhance team p
 ## Screenshots of UI 
 
 Home Page
-![image](https://github.com/user-attachments/assets/4b14cb15-4a32-412d-81ff-2a6c58077833)
+![image](https://github.com/user-attachments/assets/1360c99a-0fa0-4228-8405-6103a8ac4682)
+
 
 
